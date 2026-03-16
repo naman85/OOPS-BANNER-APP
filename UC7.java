@@ -1,4 +1,4 @@
-public class UC7 {
+public class UC7  {
     public static class CharacterPatternMap {
         private char character;
         private String[] pattern;
